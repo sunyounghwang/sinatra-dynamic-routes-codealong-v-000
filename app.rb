@@ -24,5 +24,4 @@ class App < Sinatra::Base
     @num2 = params[:num2].to_i
     "The product is #{@num1*@num2}."
   end
-
 end

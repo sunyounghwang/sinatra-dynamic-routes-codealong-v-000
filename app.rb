@@ -17,6 +17,6 @@ class App < Sinatra::Base
   get "/goodbye/:name" do
     
   end
-  
+
 
 end
